@@ -1,6 +1,4 @@
 // hello.js
-main();
-
 function main(){ 
   const name = "山田";
 
@@ -10,3 +8,6 @@ function main(){
 
   console.log(message);
 }
+
+// 実行
+main();

@@ -1,6 +1,4 @@
 // finally.js
-main();
-
 function main(){
   const today = new Date();
 
@@ -24,3 +22,5 @@ function main(){
 
 }
 
+// 実行
+main();
