@@ -1,5 +1,6 @@
 // finally.js
 function main(){
+  // システム日付から当日を取得
   const today = new Date();
 
   // フォーマット済み年月日を取得
