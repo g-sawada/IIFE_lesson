@@ -24,10 +24,3 @@ function main(){
 
 }
 
-
-// 提案登録年度を作成
-// const fiscalYear: string = ((date: Date) => {
-//   const year: number = date.getFullYear();
-//   const month: number = date.getMonth() + 1;
-//   return month <= 3 ? `${(year - 1)}年度` : `${year}年度`;
-// })(today);   // NOTE: 無名関数を即時実行
