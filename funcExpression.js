@@ -26,3 +26,6 @@ function main(){
   console.log(`年度は${fiscalYear}です。`);
 
 }
+
+// 実行
+main();
