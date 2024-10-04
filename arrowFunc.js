@@ -11,3 +11,5 @@ const getFiscalYear = ((date) => {
   return month <= 3 ? `${(year - 1)}年度` : `${year}年度`;
 });
 
+console.log(typeof getFormattedDate);  // 実行結果: function
+console.log(typeof getFiscalYear);     // 実行結果: function
