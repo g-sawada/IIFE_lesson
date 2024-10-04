@@ -4,4 +4,4 @@ const hello2 = ((name) => {
 })
 
 // 実行
-hello2("山田");
+hello2("田中");
